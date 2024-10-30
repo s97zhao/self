@@ -22,7 +22,4 @@ I am a master student at the [department of mathematics](https://www.math.cit.tu
 - **[Jun. 2023]** I will attend [the Oxford summer school in economic networks 2023](https://www.maths.ox.ac.uk/events/summer-schools/economic-networks) at the University of Oxford, UK.
 - **[Jun. 2023]** Begin as a working student at the Chair of Mathematical Statistics([Prof. Drton](https://www.professoren.tum.de/en/drton-mathias)), TUM, in [the Mathematical Research Data Initiative(MaRDI)](https://www.mardi4nfdi.de/about/mission) project.
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
 
