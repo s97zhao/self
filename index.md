@@ -15,7 +15,7 @@ I am a master student at the [department of mathematics](https://www.math.cit.tu
 ## News
 
 - **[Nov. 2024]** Start as a visiting researcher under the supervision of [Prof. Kenji Fukumizu](https://www.ism.ac.jp/~fukumizu/) at [the Institute of Statistical Mathematics](https://www.ism.ac.jp/index_e.html), Tokyo.
-- **[Oct. 2024]** Our work has won top 5 of [the 13th SIGSPATIAL Cup competition (GISCUP 2024)](https://sigspatial2024.sigspatial.org/giscup/index.html) and we are invited to give a presentation in person at Altanta, USA.
+- **[Oct. 2024]** Our paper has won the first price of [the 13th SIGSPATIAL Cup competition (GISCUP 2024)](https://sigspatial2024.sigspatial.org/giscup/index.html) and I am invited to give a presentation in person at Altanta, USA!
 - **[Aug. 2024]** Start my Master’s thesis supervised by [Prof. Stefan Weltge](https://www.professoren.tum.de/en/weltge-stefan) (TUM), focusing on cut-generating functions in integer programming.
 - **[May. 2024]** I serve as a graduate student volunteer at [the Advanced OR&OM Seminar](https://seminarorom.github.io/)
 - **[Oct. 2023]** Participate in [TUM Data Innovation Lab](https://www.mdsi.tum.de/en/di-lab/tum-di-lab/), working on [causal graph-informed deep learning](https://www.mdsi.tum.de/en/di-lab/vergangene-projekte/ws23-tum-chair-for-computer-aided-medical-procedures-augmented-reality-and-oxford-causal-graph-informed-deep-learning/).
